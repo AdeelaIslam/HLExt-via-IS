@@ -1,2 +1,2 @@
-# Line Extraction in Handwritten Documents via Instance Segmentation
- Python Implementation
+# HLExt-via-IS
+ 
