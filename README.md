@@ -29,7 +29,7 @@ $ python LineExtractionTest.py
 
 ##### 6. [Pretrained models can be found at master branch of this repository](https://github.com/AdeelaIslam/HLExt-via-IS/tree/master)
 
-$## Results
+## Results
 Line extraction results along with sample annotations on 11 different datasets
 ![Figure 1](https://github.com/AdeelaIslam/HLExt-via-IS/blob/main/images/fig1.PNG)
 
