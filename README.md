@@ -1,5 +1,5 @@
 # Line Extraction in Handwritten Documents via Instance Segmentation
-This repositery provides a Python implementation of extraction of text lines from handwritten document images.
+This repository provides a Python implementation of extraction of text lines from handwritten document images.
 
 ### [Line Extraction in Handwritten Documents via Instance Segmentation](https://doi.org/10.1007/s10032-023-00438-7)
 #### Adeela Islam<sup>1</sup> · Tayaba Anjum<sup>1</sup> · Nazar Khan<sup>1</sup>
