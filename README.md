@@ -38,12 +38,9 @@ If this work is useful for your research, please cite our [Paper](https://doi.or
 @article{islam2023line,
   title={Line extraction in handwritten documents via instance segmentation},
   author={Islam, Adeela and Anjum, Tayaba and Khan, Nazar},
-  journal={International Journal on Document Analysis and Recognition},
-  volume={},
-  number={},
-  pages={},
+  journal={International Journal on Document Analysis and Recognition (IJDAR)},
+  pages={1--12},
   year={2023},
-  publisher={Springer, NY},
-  url={https://doi.org/10.1007/s10032-023-00438-7}
+  publisher={Springer}
 }
 ```
